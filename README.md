@@ -1,1 +1,2 @@
-# ReactBands
+Vjezba reacta,
+react-bootstrat
